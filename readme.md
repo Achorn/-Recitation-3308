@@ -1,7 +1,8 @@
 Joshua Achorn
-Partner: William Ness
-
 Name: Version Control 
+<<<<<<< HEAD
 
 still trying to cause a merge cinflict
-This may cause a merge conflict
+
+Partner: William Ness
+>>>>>>> f0163b80c95da3641106099f9c1caab8a6ebb4c6
