@@ -1,5 +1,5 @@
 Joshua Achorn
-William Ness
+Partner: William Ness
 
 Name: Version Control 
 
